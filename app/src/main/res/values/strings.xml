@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TeacherAssistant</string>
+    <string name="final_speech_result">final_speech_result</string>
+    <string name="no_data">no_data</string>
+</resources>
