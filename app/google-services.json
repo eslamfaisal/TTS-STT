@@ -8,20 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1080425919030:android:a47fc94283688a42",
+        "mobilesdk_app_id": "1:1080425919030:android:8472db7bc64419c5",
         "android_client_info": {
-          "package_name": "com.eslam.teacherassistant"
+          "package_name": "com.eslam.doctorassistance"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "1080425919030-6n7r642oqpfe7vm0o4vbk6j03ephv8sn.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.eslam.teacherassistant",
-            "certificate_hash": "ce5ac6851d50c5c25f1ac13ba36cdb0f8e001d29"
-          }
-        },
         {
           "client_id": "1080425919030-fos8v4450b4uf6gv6ch93sb1duoj3t4r.apps.googleusercontent.com",
           "client_type": 3
